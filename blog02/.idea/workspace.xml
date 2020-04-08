@@ -1,0 +1,820 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/App/MyMiddleware.py" line="9" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="08b17640-1779-4941-a7b5-414ca0af2057" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App/eml_token.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="18" column="49" lean-forward="true" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+              <folding>
+                <element signature="e#0#55#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="115" column="31" selection-start-line="115" selection-start-column="31" selection-end-line="115" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/post.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="143" column="93" selection-start-line="143" selection-start-column="62" selection-end-line="143" selection-end-column="93" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Django_Projects/wsgi.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/asd.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="775">
+              <caret line="31" column="49" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+              <folding>
+                <element signature="e#633#661#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Django_Projects/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="151">
+              <caret line="158" column="37" lean-forward="true" selection-start-line="158" selection-start-column="37" selection-end-line="158" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>class=&quot;fr mt15 mr5 forgetpwd&quot;</find>
+      <find>fr</find>
+      <find>class=&quot;mt15 btn-login&quot;</find>
+      <find>class=&quot;logininfo mt15&quot;</find>
+      <find>login</find>
+      <find>{% url 'App:login' %}</find>
+      <find>class=&quot;nav-item&quot;</find>
+      <find>margin-left: 330px</find>
+      <find>csr</find>
+      <find>class=&quot;mt15 btn-login themebgc&quot;</find>
+      <find>id=&quot;navbarcollapse&quot;</find>
+      <find>class=&quot;col-md-4&quot;</find>
+      <find>class=&quot;copyrights&quot;</find>
+      <find>placeholder</find>
+      <find>class=&quot;fl mr5&quot;</find>
+      <find>id=&quot;pwdlabel&quot;</find>
+      <find>pwdagain</find>
+      <find>label class=&quot;error&quot;</find>
+      <find>mt20 import-div pub-bottom-border</find>
+      <find>class=&quot;fl&quot;</find>
+      <find>Article display</find>
+      <find>class=&quot;register-agree-font&quot;</find>
+      <find>onclick=&quot;change()&quot;</find>
+      <find>昵称</find>
+      <find>class=&quot;form-group col-md-6&quot;</find>
+      <find>验证码</find>
+      <find>class=&quot;comment-header d-flex justify-content-between&quot;</find>
+      <find>msg</find>
+      <find>注册</find>
+      <find>comment</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/App/models1.py" />
+        <option value="$PROJECT_DIR$/templates/charld_01.html" />
+        <option value="$PROJECT_DIR$/templates/fenye.html" />
+        <option value="$PROJECT_DIR$/static/css/login.css" />
+        <option value="$PROJECT_DIR$/templates/loginb.html" />
+        <option value="C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.7_3.7.1776.0_x64__qbz5n2kfra8p0/Lib/wsgiref/headers.py" />
+        <option value="$PROJECT_DIR$/templates/model1.html" />
+        <option value="$PROJECT_DIR$/templates/飞机2.html" />
+        <option value="$PROJECT_DIR$/static/js/main.js" />
+        <option value="$PROJECT_DIR$/static/css/page.css" />
+        <option value="$PROJECT_DIR$/templates/wenbenbianji.py" />
+        <option value="$PROJECT_DIR$/templates/public_header.html" />
+        <option value="$PROJECT_DIR$/templates/飞机.html" />
+        <option value="$PROJECT_DIR$/templates/change_psw.html" />
+        <option value="$PROJECT_DIR$/templates/zixun_Team.html" />
+        <option value="$PROJECT_DIR$/templates/register.html" />
+        <option value="$PROJECT_DIR$/templates/wenbenbianji.html" />
+        <option value="$PROJECT_DIR$/templates/xiugaichenggong.html" />
+        <option value="$PROJECT_DIR$/templates/shangchuan.html" />
+        <option value="$PROJECT_DIR$/App/file_upload.py" />
+        <option value="$PROJECT_DIR$/templates/wenzhang_xinwen_fabu.html" />
+        <option value="$PROJECT_DIR$/templates/cap.html" />
+        <option value="$USER_HOME$/pyhton_env/Lib/site-packages/django/views/debug.py" />
+        <option value="$PROJECT_DIR$/templates/wenzhang_xinwen.html" />
+        <option value="$PROJECT_DIR$/templates/wenzhang_xinwen_fat.html" />
+        <option value="$PROJECT_DIR$/templates/category.html" />
+        <option value="$PROJECT_DIR$/../我的电脑/娱乐/谷歌浏览器/缓存文件/uwsgi-2.0.18/uwsgiconfig.py" />
+        <option value="$PROJECT_DIR$/templates/public_left.html" />
+        <option value="$PROJECT_DIR$/templates/wenzhnagfabu2.html" />
+        <option value="$PROJECT_DIR$/templates/wenzhangneiirong.html" />
+        <option value="$PROJECT_DIR$/App/models.py" />
+        <option value="$PROJECT_DIR$/templates/blog.html" />
+        <option value="$PROJECT_DIR$/templates/login.htm" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/App/SMS.py" />
+        <option value="$PROJECT_DIR$/../NZ1901/flask/7_分页/代码/day07/App/views.py" />
+        <option value="$PROJECT_DIR$/App/verifycode.py" />
+        <option value="$PROJECT_DIR$/Django_Projects/urls.py" />
+        <option value="$PROJECT_DIR$/templates/post.html" />
+        <option value="$PROJECT_DIR$/App/forms.py" />
+        <option value="$PROJECT_DIR$/aaaaaaaaaaa.py" />
+        <option value="$PROJECT_DIR$/App/MyMiddleware.py" />
+        <option value="$PROJECT_DIR$/templates/注册.htm" />
+        <option value="$PROJECT_DIR$/App/urls.py" />
+        <option value="$PROJECT_DIR$/Django_Projects/settings.py" />
+        <option value="$PROJECT_DIR$/App/eml_token.py" />
+        <option value="$PROJECT_DIR$/templates/asd.html" />
+        <option value="$PROJECT_DIR$/App/views.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="22" />
+    <option name="y" value="78" />
+    <option name="width" value="1440" />
+    <option name="height" value="883" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="blog02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog02" type="462c0819:PsiDirectoryNode" />
+              <item name="App" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog02" type="462c0819:PsiDirectoryNode" />
+              <item name="Django_Projects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog02" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hhh\Desktop\Django_Projects_01\static\music" />
+      <recent name="C:\Users\hhh\Desktop\Django_Projects_01\App" />
+      <recent name="C:\Users\hhh\Desktop\Django_Projects_01\static\filesss" />
+      <recent name="C:\Users\hhh\Desktop\Django_Projects_01\static\images" />
+      <recent name="C:\Users\hhh\Desktop\Django_Projects_01\static" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.aaaaaaaaaaa">
+    <configuration name="SMS" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Django_Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/App" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/App/SMS.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="aaaaaaaaaaa" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Django_Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aaaaaaaaaaa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="verifycode (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Django_Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/App" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/App/verifycode.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="verifycode" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Django_Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../NZ1901/flask/7_分页/代码/day07/App" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../NZ1901/flask/7_分页/代码/day07/App/verifycode.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Django_Projects" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Django_Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.aaaaaaaaaaa" />
+        <item itemvalue="Python.verifycode (1)" />
+        <item itemvalue="Python.verifycode" />
+        <item itemvalue="Python.SMS" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08b17640-1779-4941-a7b5-414ca0af2057" name="Default Changelist" comment="" />
+      <created>1583731658447</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583731658447</updated>
+      <workItem from="1583731661488" duration="37000" />
+      <workItem from="1583731717602" duration="5000" />
+      <workItem from="1583847570614" duration="1376000" />
+      <workItem from="1583848976481" duration="71000" />
+      <workItem from="1583898870404" duration="1706000" />
+      <workItem from="1583934556752" duration="17000" />
+      <workItem from="1583978388715" duration="20405000" />
+      <workItem from="1584062804344" duration="22924000" />
+      <workItem from="1584148636567" duration="20912000" />
+      <workItem from="1584237222282" duration="25891000" />
+      <workItem from="1584276016078" duration="9042000" />
+      <workItem from="1584322278646" duration="25997000" />
+      <workItem from="1584408452881" duration="3690000" />
+      <workItem from="1584426443527" duration="658000" />
+      <workItem from="1584454521529" duration="824000" />
+      <workItem from="1584457102232" duration="1044000" />
+      <workItem from="1584522480790" duration="20288000" />
+      <workItem from="1584580758814" duration="24823000" />
+      <workItem from="1584667621430" duration="7378000" />
+      <workItem from="1584707259462" duration="8875000" />
+      <workItem from="1584716234738" duration="254000" />
+      <workItem from="1584759830346" duration="6787000" />
+      <workItem from="1584775848340" duration="265000" />
+      <workItem from="1584776271214" duration="410000" />
+      <workItem from="1584776701349" duration="1459000" />
+      <workItem from="1584778460806" duration="1584000" />
+      <workItem from="1584780315464" duration="1243000" />
+      <workItem from="1584781753688" duration="2270000" />
+      <workItem from="1584784070692" duration="177000" />
+      <workItem from="1584784270332" duration="1605000" />
+      <workItem from="1584785910169" duration="191000" />
+      <workItem from="1584786123376" duration="97000" />
+      <workItem from="1584786301095" duration="77000" />
+      <workItem from="1584786556645" duration="28000" />
+      <workItem from="1584787082205" duration="283000" />
+      <workItem from="1584787390059" duration="118000" />
+      <workItem from="1584787667005" duration="233000" />
+      <workItem from="1584787937290" duration="8416000" />
+      <workItem from="1584839993619" duration="2741000" />
+      <workItem from="1584883495255" duration="42000" />
+      <workItem from="1584884199479" duration="640000" />
+      <workItem from="1584927048834" duration="165000" />
+      <workItem from="1584927244362" duration="405000" />
+      <workItem from="1584927745125" duration="103000" />
+      <workItem from="1584928389275" duration="1927000" />
+      <workItem from="1585099562304" duration="6236000" />
+      <workItem from="1585119728841" duration="1234000" />
+      <workItem from="1585231177456" duration="1363000" />
+      <workItem from="1585273079432" duration="11000" />
+      <workItem from="1585278348383" duration="835000" />
+      <workItem from="1585281626373" duration="1080000" />
+      <workItem from="1585364258062" duration="59000" />
+      <workItem from="1585376644446" duration="1166000" />
+      <workItem from="1585408650285" duration="241000" />
+      <workItem from="1585464751947" duration="4263000" />
+      <workItem from="1585540770001" duration="571000" />
+      <workItem from="1585559909469" duration="1408000" />
+      <workItem from="1585573467286" duration="56000" />
+      <workItem from="1585647402666" duration="787000" />
+      <workItem from="1585822494645" duration="3564000" />
+      <workItem from="1585876352288" duration="1360000" />
+      <workItem from="1585906450525" duration="7601000" />
+      <workItem from="1585989955988" duration="28000" />
+      <workItem from="1585991842799" duration="4011000" />
+      <workItem from="1586136289643" duration="36002000" />
+      <workItem from="1586223117027" duration="255000" />
+      <workItem from="1586309928881" duration="16086000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="315700000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="18" y="63" width="1152" height="706" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22943327" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3069307" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" sideWeight="0.4988345" weight="0.3281471" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.506993" side_tool="true" weight="0.3497823" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.493007" weight="0.23351158" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3281471" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3297587" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/blog02$aaaaaaaaaaa.coverage" NAME="aaaaaaaaaaa Coverage Results" MODIFIED="1586313448407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Django_Projects_01$SMS.coverage" NAME="SMS Coverage Results" MODIFIED="1586162439568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/App" />
+    <SUITE FILE_PATH="coverage/Django_Projects_01$verifycode__1_.coverage" NAME="verifycode (1) Coverage Results" MODIFIED="1586164407805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/App" />
+    <SUITE FILE_PATH="coverage/Django_Projects_01$verifycode.coverage" NAME="verifycode Coverage Results" MODIFIED="1586163500602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../NZ1901/flask/7_分页/代码/day07/App" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/requirement.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/register.html" />
+    <entry file="file://$PROJECT_DIR$/templates/wenzhang_xinwen.html" />
+    <entry file="file://$PROJECT_DIR$/templates/wenzhnagfabu2.html" />
+    <entry file="file://$PROJECT_DIR$/static/css/pbase.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="26" column="15" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/pyhton_env/Lib/site-packages/django/core/handlers/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="112" selection-start-line="112" selection-end-line="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/pyhton_env/Lib/site-packages/django/contrib/auth/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="86" column="4" selection-start-line="86" selection-start-column="4" selection-end-line="86" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/pyhton_env/Lib/wsgiref/simple_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/pyhton_env/Lib/wsgiref/handlers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="343" selection-start-line="343" selection-end-line="343" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NZ1901/django/7_中间件和缓存/代码/day07/day07/settings.py" />
+    <entry file="file://$PROJECT_DIR$/templates/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="64" column="16" selection-start-line="64" selection-start-column="16" selection-end-line="64" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/standardSchemas/xhtml1-transitional.dtd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="919" column="37" lean-forward="true" selection-start-line="919" selection-start-column="37" selection-end-line="919" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/pyhton_env/Lib/site-packages/django/views/templates/technical_500.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="57" column="24" selection-start-line="57" selection-start-column="24" selection-end-line="57" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="90" column="247" selection-start-line="90" selection-start-column="247" selection-end-line="90" selection-end-column="247" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/vendor/font-awesome/fonts/FontAwesome.otf">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NZ1901/flask/8_项目/代码/day08/App/views.py" />
+    <entry file="file://$PROJECT_DIR$/../NZ1901/flask/7_分页/代码/day07/App/forms.py" />
+    <entry file="file://$PROJECT_DIR$/../我的电脑/娱乐/谷歌浏览器/缓存文件/cap/__MACOSX/CheckCode/app01/._views.py" />
+    <entry file="file://$PROJECT_DIR$/../我的电脑/娱乐/谷歌浏览器/缓存文件/cap/CheckCode/app01/views.py" />
+    <entry file="file://$PROJECT_DIR$/../NZ1901/flask/7_分页/代码/day07/App/verifycode.py" />
+    <entry file="file://$PROJECT_DIR$/../NZ1901/flask/7_分页/代码/day07/app.py" />
+    <entry file="file://$PROJECT_DIR$/App/verifycode.py" />
+    <entry file="file://$PROJECT_DIR$/../NZ1901/flask/7_分页/代码/day07/App/views.py" />
+    <entry file="file://$USER_HOME$/pyhton_env/Lib/site-packages/django/template/backends/django.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/pyhton_env/Lib/site-packages/captcha/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django_Projects/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+          <folding>
+            <element signature="e#639#671#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Django_Projects_01/Django_Projects/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1860" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/pyhton_env/Lib/site-packages/django/forms/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="413" column="21" selection-start-line="413" selection-start-column="21" selection-end-line="413" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/pyhton_env/Lib/site-packages/django/forms/formsets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="198" column="8" selection-start-line="198" selection-start-column="8" selection-end-line="198" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60">
+          <caret line="11" column="74" lean-forward="true" selection-start-line="11" selection-start-column="74" selection-end-line="11" selection-end-column="74" />
+          <folding>
+            <element signature="e#2#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/datetime.pyi">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../最新/最最新/最最最新/最最最最新/项目/Django_Projects_01/App/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="150" column="21" selection-start-line="150" selection-start-column="21" selection-end-line="150" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aaaaaaaaaaa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Django_Projects_01/App/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="622">
+          <caret line="151" selection-start-line="151" selection-end-line="151" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Django_Projects_01/App/urls.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="122" column="61" selection-start-line="122" selection-start-column="61" selection-end-line="122" selection-end-column="61" />
+          <folding>
+            <element signature="e#468#519#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/pyhton_env/Lib/site-packages/django/core/handlers/exception.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/pyhton_env/Lib/site-packages/captcha/helpers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="88" column="4" selection-start-line="88" selection-start-column="4" selection-end-line="88" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../NZ1901/django/6_其他/代码/day06/day06/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="164" column="40" lean-forward="true" selection-start-line="164" selection-start-column="40" selection-end-line="164" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/注册.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="216" lean-forward="true" selection-start-line="216" selection-end-line="216" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/login.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="216" column="26" lean-forward="true" selection-start-line="216" selection-start-column="26" selection-end-line="216" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../NZ1901/django/6_其他/代码/day06/App/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/SMS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/MyMiddleware.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/eml_token.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="18" column="49" lean-forward="true" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+          <folding>
+            <element signature="e#633#661#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django_Projects/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django_Projects/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="158" column="37" lean-forward="true" selection-start-line="158" selection-start-column="37" selection-end-line="158" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/asd.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="31" column="49" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="115" column="31" selection-start-line="115" selection-start-column="31" selection-end-line="115" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="143" column="93" selection-start-line="143" selection-start-column="62" selection-end-line="143" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
